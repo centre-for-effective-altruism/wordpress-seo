@@ -19,6 +19,7 @@ local.properties
 .buildpath
 nbproject/
 node_modules/*
+premium/node_modules/*
 
 ############
 ## OSes
@@ -49,6 +50,10 @@ temp/
 
 .svn
 
+############
+## Composer
+############
+vendor/
 
 ############
 ## WPSEO
